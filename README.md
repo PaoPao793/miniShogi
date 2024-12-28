@@ -13,9 +13,10 @@
 - [Game Interface](#game-interface)
 
 
-##### Running the Game
-- First compile the code by running `javac Game/Main.java` from the project root directory
-- Then, run `java Game/Main.java -i` or `java Game/Main.java -f` (depending on the mode desired, more of this in ([Game Interface](#game-interface)))
+## Running the Game
+- Clone the repo into your personal device 
+- Run `java Game/Main.java -i` or `java Game/Main.java -f` (depending on the mode desired, more of this in ([Game Interface](#game-interface)))
+- If you have issues running the game, recompile it with: `javac Game/Main.java` from the project root directory
 
 
 ## Game Rules
